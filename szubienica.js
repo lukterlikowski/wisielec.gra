@@ -92,23 +92,7 @@ function sprawdz(nr)
 	if (ile_skuch>=9)
 	document.getElementById("alfabet").innerHTML  = "Przegrana! Prawidłowe hasło: "+haslo+'<br /><br /><span class="reset" onclick="location.reload()">JESZCZE RAZ?</span>';
 
-	
-	
-	
-	
-	
-
 	wypisz_haslo();
 }
-
-
-
-
-
-
-
-
-
-
 
 
